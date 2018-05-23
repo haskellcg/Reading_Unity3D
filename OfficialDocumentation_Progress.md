@@ -12,3 +12,10 @@
 ## 1.2. Asset Workflow
   * import: 3D modle/audio file/an image/files unity supports
   * create: Animator Controller/Audio Mixer/a Render Texture
+### 1.2.1. Common types of Assets
+  * Image files/FBX and model files/meshes and animations/audio files/other assert types/standard assets
+### 1.2.2. Primitive and placeholder objects
+  * Cube/Sphere/Capsule/Cylinder/Plane/Quad
+### 1.2.3. Asset packages  
+  * Asset packages
+  * unity packages
