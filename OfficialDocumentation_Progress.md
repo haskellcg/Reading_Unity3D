@@ -53,3 +53,26 @@
   Left arrow|Collapse selected item (tree views and search results). If the item is already collapsed, this will select its parent item
   Alt+right arrow|Expand item when showing assets as previews
   Alt+left arrow|Collapse item when showing assets as previews
+### 1.3.2. The Scene View  
+  * Showing Game Objects
+#### 1.3.2.1. Scene View navigation
+  * Scene Gizmo: Mac trackpad gestures
+  * Moving/Orbiting/Zooming: [Shift+]arrow key/Hand tool(Alt/Right click/Left click)/Flythrough mode
+  * Movement shortcuts
+#### 1.3.2.2. Positioning GameObjects  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
