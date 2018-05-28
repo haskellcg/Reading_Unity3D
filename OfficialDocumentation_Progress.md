@@ -17,5 +17,16 @@
 ### 1.2.2. Primitive and placeholder objects
   * Cube/Sphere/Capsule/Cylinder/Plane/Quad
 ### 1.2.3. Asset packages  
-  * Asset packages
-  * unity packages
+  * Asset packages: Asset Store
+  * Unity packages: Package Manager Window
+  * Importing Packages: Customer Package/Standard Asset
+  * Exporting Packages:
+  * Updating Packages
+  * Upgrading Standard Assets: Standard Assets do not upgrade automatically when you upgrade the editor
+## 1.2.4. Using the Asset Store
+  * Window->Asset Store
+  * Location of download Asset files:
+    * Windows: C:\Users\accountName\AppData\Roaming\Unity\Asset Store
+    * MacOS: ~/Library/Unity/Asset Store
+## 1.3. The Main Windows
+### 1.3.1. The Project Window
