@@ -30,3 +30,26 @@
     * MacOS: ~/Library/Unity/Asset Store
 ## 1.3. The Main Windows
 ### 1.3.1. The Project Window
+  * Favorite/Searching(Type:ORed together/Label:ORed together)
+  * Shortcuts: the following keyborad shortcuts are available when the browser view has focus.
+  
+  shortcut|meaning
+  --------|-------
+  F|Frame selected (ie. show the selected asset in its containing folder)
+  Tab|Shift focus between first column and second column (two columns)
+  Ctrl/Cmd+F|Focus search field
+  Ctrl/Cmd+A|Select all visible items in list
+  Ctrl/Cmd+D|Duplicate selected assets
+  Delete|Delete with dialog
+  Delete+Shift|Delete without dialog
+  Backspace+Cmd|Delete without dialog (OSX)
+  Enter|Begin rename selected (OSX)
+  Cmd+down arrow|Open selected assets (OSX)
+  Cmd+up arrow|Jump to parent folder (OSX, Two columns)
+  F2|Begin rename selected (Win)
+  Enter|Open selected assets (Win)
+  Backspace|Jump to parent folder (Win, Two columns)
+  Right arrow|Expand selected item (tree views and search results). If the item is already expanded, this will selected its first child item  
+  Left arrow|Collapse selected item (tree views and search results). If the item is already collapsed, this will select its parent item
+  Alt+right arrow|Expand item when showing assets as previews
+  Alt+left arrow|Collapse item when showing assets as previews
