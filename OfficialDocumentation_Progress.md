@@ -60,8 +60,19 @@
   * Moving/Orbiting/Zooming: [Shift+]arrow key/Hand tool(Alt/Right click/Left click)/Flythrough mode
   * Movement shortcuts
 #### 1.3.2.2. Positioning GameObjects  
-  
-  
+  * To select or deselect multiple GameObjects, hold the Shift key while clicking, or drag a rectangle around multiple GameObjects to select them
+  * Highlight color change: Unity->Preference->Color->Selected Wireframe->Selected Outline
+  * Move/Rotate/Scale/RectTransform
+  * Gizmo handle position toggles
+#### 1.3.2.3. Scene View Control Bar  
+  * Draw mode menu: Shaing mode/Miscellaneous/Deferred/Global Illumination/Material Validator
+  * 2D, Lighting, Audio switches
+  * Effects button and menu
+  * Gizmo menu
+  * Search bo
+#### 1.3.2.4. Gizmo menu
+  * 3D Icons/Show Grid/Selection Outline/Selection Wire/Built-in Components
+  * Gizmos and Icons
   
   
   
