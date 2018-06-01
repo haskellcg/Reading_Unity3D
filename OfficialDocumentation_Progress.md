@@ -72,8 +72,30 @@
   * Search bo
 #### 1.3.2.4. Gizmo menu
   * 3D Icons/Show Grid/Selection Outline/Selection Wire/Built-in Components
-  * Gizmos and Icons
+  * Gizmos and Icons: Camera/Light direction Gizmo
+  * Show Grid
+  * Selection Outline and Selection Wire
+  * Build-in Components
+### 1.3.3. The Game View  
+  * Play mode
+  * Game view Control Bar
+  * Gizmo menu
+  * Advanced options
+### 1.3.4. The Hierarchy window  
+  * Parenting
+  * Making a child object
+  * Alphanumeric sorting
+  * Multi-scene editing
+### 1.3.5. The Inspector window
   
+## 1.4. Creating HamePlay
+## 1.5. Editor Features
+## 1.6. Advanced Development
+## 1.7. Advanced Editor Topics
+## 1.8. Licenses and Activation
+## 1.9. Upgrade Guides
+
+# 2. Importing
   
   
   
