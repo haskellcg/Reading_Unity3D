@@ -103,6 +103,12 @@
   * lock
   * debug/normal mode
 ### 1.3.6. The Toolbar
+### 1.3.7. Searching
+  * project view/scene view
+### 1.3.8. Other windows
+  * console window/animation window/profiler window
+  * lighting window/occlusion culling window
+### 1.3.9. Customize workspace
   
 ## 1.4. Creating HamePlay
 ## 1.5. Editor Features
