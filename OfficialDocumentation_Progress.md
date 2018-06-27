@@ -109,6 +109,8 @@
   * console window/animation window/profiler window
   * lighting window/occlusion culling window
 ### 1.3.9. Customize workspace
+### 1.3.10. Unity Hotkeys
+  * [HotKeys](https://docs.unity3d.com/Manual/UnityHotkeys.html)
   
 ## 1.4. Creating HamePlay
 ## 1.5. Editor Features
