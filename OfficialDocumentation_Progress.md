@@ -87,6 +87,22 @@
   * Alphanumeric sorting
   * Multi-scene editing
 ### 1.3.5. The Inspector window
+  * display details information about currently selected GameObject
+  * inspecting GameObjects
+  * inspecting Script Variables
+  * inspecting Assets
+  * prefabs[template like]/project setting/icons and labels/reordering components
+#### 1.3.5.1. Assigning icons
+  * image-only icon/label icon
+#### 1.3.5.2. Editing Properties
+  * others/colors/gradients/curves/arrays
+  * Editing Several Objects at once
+#### 1.3.5.3. Swatch libraries
+  * save and choose
+#### 1.3.5.4. Inspector Options
+  * lock
+  * debug/normal mode
+### 1.3.6. The Toolbar
   
 ## 1.4. Creating HamePlay
 ## 1.5. Editor Features
