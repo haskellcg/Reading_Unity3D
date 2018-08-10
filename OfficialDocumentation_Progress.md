@@ -120,6 +120,17 @@
 ## 1.9. Upgrade Guides
 
 # 2. Importing
+## 2.1. Model importing workflows
+### 2.1.1. Importing humanoid animations
+  * Define the Rig type and create the Avatar
+  * Correct or verify the avatar's mapping
+  * Once you are finished with the bone mapping, you can optionally click the Muscles & Settings tab to tweak the Avatar's muscle configuration
+  * You can optionally save the mapping of your skeleton's bones to the Avatar as a Human Template (.ht) file
+  * You can optionally limit the animation that gets imposed on certain bones by defining an Avatar Mask
+  * From the animation tab, enable the import animation option and then set the other Asset-specific properties
+  * If the file consists of multiple animations or actions, you can define specific action ranges as Animation Clips
+  * For each Animation Clip defined in the file, you can ...
+  * To save your changes, click the apply button at the bottom of the Import settings window or Revert to discard your changes
   
   
   
