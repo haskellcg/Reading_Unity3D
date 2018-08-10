@@ -132,6 +132,8 @@
   * For each Animation Clip defined in the file, you can ...
   * To save your changes, click the apply button at the bottom of the Import settings window or Revert to discard your changes
   
+  * Creating an Avatar Mask/import time or runtime/Avatar Mask Asset/
+  
   
   
   
