@@ -149,11 +149,22 @@
 ### 2.2.3. Animation tab
   * 略 (TODO)
 
-# 2D
-  # this section contains documentation for users developing 2D games in Unity.
-  
-  
-  
+# 3. 2D
+  * this section contains documentation for users developing 2D games in Unity.
+## 3.1. Gameplay in 2D
+  * The most immediately noticeable feature is 2D view mode button in the toolbar of the scene view. When 2D mod is enabled, an orthograpgic view will be set; the camera looks along the Z axis with the Y axis increasing upwards. This allow you to visualise the scene and place 2D objects easily
+  * 2D graphics: graphics objects in 2D are known as Sprites. Sprites are essentially just standard textures but there are special techniques for combining and managing sprite textures for efficiency and convenience during development.
+  * 2D physics: Rigidbody, Box Collider, Hinge Joint
+## 3.2. Sprites
+  * Sprite Creator/Sprite Editor/Sprite Renderer/Sprite Packer
+### 3.2.1. Sprite Creator
+### 3.2.2. Sprite Editor
+#### 3.2.2.1. Sprite Editor: Edit Outline  
+  * Transparent areas in a Sprite can negatively affect your project's peformance. This feature is useful for fine-tuning the bound of a Sprite, ensuring these are fewer transparent areas in the shape.
+  * Outline Tolerance
+#### 3.2.2.2. Sprite Editor: Custom Physics Shape
+  * Working with multiple outlines
+### 3.2.3. Sprite Packer
   
   
   
