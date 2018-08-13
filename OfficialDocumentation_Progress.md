@@ -111,7 +111,6 @@
 ### 1.3.9. Customize workspace
 ### 1.3.10. Unity Hotkeys
   * [HotKeys](https://docs.unity3d.com/Manual/UnityHotkeys.html)
-  
 ## 1.4. Creating HamePlay
 ## 1.5. Editor Features
 ## 1.6. Advanced Development
@@ -132,8 +131,26 @@
   * For each Animation Clip defined in the file, you can ...
   * To save your changes, click the apply button at the bottom of the Import settings window or Revert to discard your changes
   
-  * Creating an Avatar Mask/import time or runtime/Avatar Mask Asset/
-  
+  * Creating an Avatar Mask/import time or runtime/Avatar Mask Asset
+### 2.1.2. Importing non-humanoid animations
+  * Non-humanoid skeletons could have a huge range of possible bone structures
+  * The solution to dealing with this complexity is that Unity only needs to know which bone is the Root node.
+  * The generic avatar is not the same as the humanoid avatar, but it does appear in the project view, and it hold the root node mapping.
+## 2.2. Model Import Settings window
+  * To view the import settings in the Inspector, click on the file in the Project window. You can customize how Unity imports the selected file by setting the properties on four tabs on this window.
+### 2.2.1. Model tab
+### 2.2.2. Rig tab
+  * By default, when you select a model in the Project view, Unity determines which Animation Type best macthes the selected Model and displays it in the Rig tab.
+#### 2.2.2.1. Avatar mapping tab
+  * Saving and Reusing avatar data (Human template files)
+#### 2.2.2.2. Avatar muscle & Setting tab
+#### 2.2.2.3. Avatar mask window
+#### 2.2.2.4. Human Template window
+### 2.2.3. Animation tab
+  * 略 (TODO)
+
+# 2D
+  # this section contains documentation for users developing 2D games in Unity.
   
   
   
