@@ -165,6 +165,17 @@
 #### 3.2.2.2. Sprite Editor: Custom Physics Shape
   * Working with multiple outlines
 ### 3.2.3. Sprite Packer
+  * Using the Sprite Packer
+  * Packing Policy: defaultPackerPolicy/TightPackerPolicy/TightRotateEnabledSpritePackerPolicy
+  * Customizing the Sprite Packer
+  * DefaultPackerPolicy
+### 3.2.4. Sorting Group
+  * Sorting a Sorting Group
+  * Nested Sorting Group
+### 3.2.5. 9-slicing Sprite
+  * 9-slicing is a 2D technique which allows you to reuse an image at various sizes without needing to prepare multiple assets. It invovles splitting the image into nine portions, so that when you re-size the Sprite, the different portions scale or the tile in different ways to keep the Sprite in portion.
+  * Setting up your Sprite for 9-slicing
+  * Sliced/Tiled
   
   
   
